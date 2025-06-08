@@ -1,5 +1,7 @@
-# scrimba-toggle-switch
-A simple CSS-only toggle switch, designed for seamless interaction without JavaScript. This project showcases pure CSS techniques to achieve a functional and visually appealing switch animation.
+<h1>CSS Toggle Switch 🎛️</h1>
+<p>
+  A simple <strong>CSS-only toggle switch</strong>, designed for seamless interaction <strong>without JavaScript</strong>. This project showcases <strong>pure CSS techniques</strong> to achieve a functional and visually appealing switch animation.
+</p>
 <h2>✨ Features</h2>
 <ul>
   <li>
